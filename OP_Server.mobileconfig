@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDescription</key>
+            <string>OP Server 🇻🇳 and Sensi Pro Setup</string>
+            <key>PayloadDisplayName</key>
+            <string>reak sensi pro</string>
+            <key>PayloadIdentifier</key>
+            <string>com.op.server.vietnam.smooth</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>B1C2D3E4-F5A6-7890-ABCD-EF0123456789</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>allowGlobalBackgroundFetchWhenRoaming</key>
+            <false/>
+            <key>allowDiagnosticSubmission</key>
+            <false/>
+            <key>allowSpotlightInternetResults</key>
+            <false/>
+            <key>forceAutomaticDateAndTime</key>
+            <true/>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Profile for OP Server 🇻🇳 and Smooth Gaming</string>
+    <key>PayloadDisplayName</key>
+    <string>OP Server 🇻🇳</string>
+    <key>PayloadIdentifier</key>
+    <string>com.op.server.profile.main</string>
+    <key>PayloadOrganization</key>
+    <string>OP Server Gaming</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>98765432-ABCD-EF01-2345-6789ABCDEF02</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
